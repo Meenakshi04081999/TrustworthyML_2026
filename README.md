@@ -11,7 +11,7 @@
 ##### 3. Download dataset and model
 ##### Download the following files and place them in the project root directory.
 ##### pub.pt, priv.pt and model.pth
-##### (These are already provided in the resources).
+##### (These are already provided along with resources, so kindly download from the resource).
 
 ##### 4. Set Paths
 ##### Open task_template.py and update API key, Pub_path, Priv_Path, Model_path, Output_CSV.

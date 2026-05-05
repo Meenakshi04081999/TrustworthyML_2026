@@ -126,7 +126,7 @@ with torch.no_grad():
 member_features = torch.cat(member_features, dim=0)
 
 
-# naive approach
+# feature membership approach
 def compute_mia_scores(dataset):
     all_ids = []
     all_scores = []
